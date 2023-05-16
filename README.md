@@ -40,6 +40,7 @@ instead of `name_of_your_branch` write the name of the branch whatever you want
 ```bash
 vi addname.txt
 ```
+This will open Vim Editor for you and to start typing first click the `insert` button on your keyboard then, 
 * Add this at the end of the addname.txt file: 
 ```bash
 Hi! I am <your_name> and my GitHub profile is [username](profile_link)
