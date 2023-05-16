@@ -1,4 +1,6 @@
 # Open-Source-Planet
+![Black and Cream Minimal Retail Chic Electronics and Appliances Banner](https://github.com/Satyxm/Open-Source-Planet/assets/97077594/588a2387-03d3-443c-bc86-2f1adeea68b1)
+
 Hey Folks! If you want to contribute to the Open-Source Projects but cannot do so because of getting overwhelmed by the large codebases of these projects. Then, You've landed on the perfect Open-Source Planet :) Get your Spaceship 🚀 ready and Start your Open-Source Journey!
 
 ## Fork the Repository
