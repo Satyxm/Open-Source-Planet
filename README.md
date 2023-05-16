@@ -2,10 +2,14 @@
 Hey Folks! If you want to contribute to the Open-Source Projects but cannot do so because of getting overwhelmed by the large codebases of these projects. Then, You've landed on the perfect Open-Source Planet :) Get your Spaceship 🚀 ready and Start your Open-Source Journey!
 
 ## Fork the Repository
+<img  alt="IMG_20230516_130918" width="500" src="https://github.com/Satyxm/Open-Source-Planet/assets/97077594/afdf862c-196f-490f-b474-eef9c1f592d1">
 Click on the Fork button and fork the repository
 
 ## Clone the Repository
-Go to the green button saying `Code` and click on it then, Copy the URL
+Go to the green button saying `Code` 
+<img  alt="IMG_20230516_130824" width="500" src="https://github.com/Satyxm/Open-Source-Planet/assets/97077594/1ae7d902-70eb-45ae-9df7-b6d8ea1a7188">
+and click on it then, Copy the URL
+<img  alt="IMG_20230516_1307544" width="500" src="https://github.com/Satyxm/Open-Source-Planet/assets/97077594/fe79b245-ff22-4393-b562-e2852ec124c1">
 ```bash
 git clone "paste the URL here"
 ```
@@ -44,13 +48,18 @@ Currently, if you do
 ```bash
 git status
 ```
+
 Then, You might see: `modified: addname.txt` written in red
+<img width="909" alt="Screenshot 2023-05-16 124856" src="https://github.com/Satyxm/Open-Source-Planet/assets/97077594/67dfc5f6-1e85-4781-b7dd-bc4f769679a1">
+
 So, do this:
 ```bash
 git add addname.txt
 ```
 This will add your changes
 And, Now You will see: `modified: addname.txt` written in green
+<img width="899" alt="Screenshot 2023-05-16 124921" src="https://github.com/Satyxm/Open-Source-Planet/assets/97077594/3a8ab5b9-af59-4afd-a53a-11cf808f2c34">
+
 This means that your changes were added
 
 ## Commit your changes locally
